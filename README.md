@@ -6,6 +6,10 @@ Tenho 22 anos, curto backend mas não desisto de um dia ser frontend, estou conc
 ![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true)
 
 
+### :iphone:	Contatos:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/) [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/lucaseman)
+
 ### :books:	Estou aprendendo:
 Atualmente estou incrementando meu conhecimento com:
 - TDD
@@ -17,11 +21,6 @@ Atualmente estou incrementando meu conhecimento com:
 [![SISMEC](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=sismec)](https://github.com/lucasemanuel/sismec)
 [![NOTES FRONTEND](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=notes-front-end)](https://github.com/lucasemanuel/notes-front-end)
 [![NOTES FRONTEND](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=notes)](https://github.com/lucasemanuel/notes)
-
-
-### :keyboard: Estou colaborando:
-[![CONARKET FRONTED](https://github-readme-stats.vercel.app/api/pin/?username=conab-devs&repo=conab-frontend-web)](https://github.com/conab-devs/conab-frontend-web)
-[![CONARKET BACKEND](https://github-readme-stats.vercel.app/api/pin/?username=conab-devs&repo=conab-backend)](https://github.com/conab-devs/conab-backend)
 
 <!--
 **lucasemanuel/lucasemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
