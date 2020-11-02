@@ -1,6 +1,5 @@
 ## Save :call_me_hand:
 
----
 ### :goat: Meu nome é Lucas (Bodin)
 Tenho 22 anos, curto backend mas não desisto de um dia ser frontend, estou concluindo o curso de Sistemas para Internet (IFRN <i>campus</i> Currais Novos), atualmente estou terminando de desenvolver meu **<a href="https://github.com/lucasemanuel/sismec">TCC</a>** e nele eu apresento uma ferramenta - também desenvolvida pela minha pessoa - para auxilar gerentes de microempresas varejistas.
 
@@ -8,8 +7,9 @@ Tenho 22 anos, curto backend mas não desisto de um dia ser frontend, estou conc
 Atualmente estou incrementando meu conhecimento com TDD, React e Vuejs + Vuex.
 
 ### :keyboard: Estou desenvolvendo...
-Além de desenvolver meu **<a href="https://github.com/lucasemanuel/sismec">TCC</a>** com Yii (Framework PHP) e estou colaborando em um projeto - com colegas - desenvolvendo um app para que as cooperativas de Currais Novos possam ter mais visibilidade no mercado local, este projeto tem uma stack formada por React, React-Native e Laravel.
+Além de desenvolver meu **<a href="https://github.com/lucasemanuel/sismec">TCC</a>** com Yii (Framework PHP) estou colaborando em um projeto - com colegas - desenvolvendo um app para que as cooperativas de Currais Novos possam ter mais visibilidade no mercado local, este projeto tem uma stack formada por React, React-Native e Laravel.
 
+### 
 <!--
 **lucasemanuel/lucasemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
