@@ -7,7 +7,7 @@ Tenho 22 anos, curto backend mas não desisto de um dia ser frontend, estou conc
 
 ### :iphone:	Contatos:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/) [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/lucaseman)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucaseman)
 
 ### :books:	Estou aprendendo:
 Atualmente estou incrementando meu conhecimento com:
