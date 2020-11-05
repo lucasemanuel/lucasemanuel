@@ -6,8 +6,10 @@ Hi, eu sou o Lucas Emanuel, estou graduando em Tecnologia em Sistemas para Inter
 ![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true)
 
 ### :iphone:	Contatos:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/) [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucaseman)
+[<img src="https://img.shields.io/badge/stackoverflow-orange.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/140857/lucas-emanuel)
 
 ### :books:	Estou aprendendo...
 Atualmente estou incrementando meu conhecimento com:
@@ -35,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
