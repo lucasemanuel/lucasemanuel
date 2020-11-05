@@ -1,6 +1,6 @@
 ## Save :call_me_hand:
 
-### :goat: Meu nome é Lucas (Bodin)...
+### :upside_down_face: Meu nome é Lucas...
 Hi, eu sou o Lucas Emanuel, estou graduando em Tecnologia em Sistemas para Internet no IFRN câmpus Currais Novos. Sou desenvolvedor web backend, mas não desisto de um dia ser frontend, tenho conhecimentos claros com PHP, Yii Framework, SQL e Git, atualmente estou estudando TDD e Laravel, além disso, ferramentas que me possibilitem criar interfaces, como React e Vue, estou sempre buscando incrementar meus conhecimentos e desenvolver novas skills. 
 
 ![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true)
@@ -11,9 +11,9 @@ Hi, eu sou o Lucas Emanuel, estou graduando em Tecnologia em Sistemas para Inter
 
 ### :books:	Estou aprendendo...
 Atualmente estou incrementando meu conhecimento com:
-- TDD
-- React
-- Vuejs + Vuex
+- :orange_book: TDD
+- :blue_book: React
+- :green_book: Vuejs + Vuex
 
 ### :keyboard: Estou desenvolvendo...
 
