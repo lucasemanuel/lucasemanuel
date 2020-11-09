@@ -5,26 +5,15 @@ Hi, eu sou o Lucas Emanuel, estou graduando em Tecnologia em Sistemas para Inter
 
 ![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true)
 
-### :iphone:	Contatos:
+### :point_down: Estou por ai:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucaseman)
 [<img src="https://img.shields.io/badge/stackoverflow-orange.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/140857/lucas-emanuel)
-
-### :books:	Estou aprendendo...
-Atualmente estou incrementando meu conhecimento com:
-- :orange_book: TDD
-- :blue_book: React
-- :green_book: Vuejs + Vuex
-
-### :keyboard: Estou desenvolvendo...
-
-[![SISMEC](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=sismec)](https://github.com/lucasemanuel/sismec)
-[![NOTES FRONTEND](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=notes-front-end)](https://github.com/lucasemanuel/notes-front-end)
-[![NOTES FRONTEND](https://github-readme-stats.vercel.app/api/pin/?username=lucasemanuel&repo=notes)](https://github.com/lucasemanuel/notes)
 
 <!--
 **lucasemanuel/lucasemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucaseman)
 
 Here are some ideas to get you started:
 
