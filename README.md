@@ -1,11 +1,10 @@
-## Save :call_me_hand:
+## Hi, eu sou o Lucas... :call_me_hand:
 
-### :upside_down_face: Meu nome é Lucas...
-Hi, eu sou o Lucas Emanuel, estou graduando em Tecnologia em Sistemas para Internet no IFRN câmpus Currais Novos. Sou desenvolvedor web backend, mas não desisto de um dia ser frontend, tenho conhecimentos claros com PHP, Yii Framework, SQL e Git, atualmente estou estudando TDD e Laravel, além disso, ferramentas que me possibilitem criar interfaces, como React e Vue, estou sempre buscando incrementar meus conhecimentos e desenvolver novas skills. 
+Hi, eu sou o Lucas Emanuel, graduando em Tecnologia em Sistemas para Internet no IFRN. Sou desenvolvedor web backend, utlizando principalmente PHP (Yii Framework e Laravel), SQL e Git. Mesmo sem domínio no front-end faço uso do Vue ou React, atualmente estudo Test Driven Development (TDD).
 
-![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true)
+![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true&prefers=dark)
 
-### :point_down: Estou por ai:
+### :point_down: Estou por aqui:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
 [<img src="https://img.shields.io/badge/stackoverflow-orange.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/140857/lucas-emanuel)
