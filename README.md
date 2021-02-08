@@ -1,6 +1,6 @@
-## Hi, eu sou o Lucas... :call_me_hand:
+# Hey, I'm Emanuel... 
 
-Hi, eu sou o Lucas Emanuel, graduando em Tecnologia em Sistemas para Internet no IFRN. Sou desenvolvedor web backend, utlizando principalmente PHP (Yii Framework e Laravel), SQL e Git. Mesmo sem domínio no front-end faço uso do Vue ou React, atualmente estudo Test Driven Development (TDD).
+Sou desenvolvedor backend, experiente em PHP utilizando Laravel e Yii2 Framework, Git e SQL (PostgreSQL e Mysql). 99% Graduado em Tecnologia em Sistemas para Internet, com leitura razoável em inglês. Em constante busca por conhecimento, recentemente estudando e aplicando os estudos em projetos utilizando tecnologias frontend, como, Vue e React, e metodologias como Test Driven Development (TDD), Kanban e Git Flow. Sempre preparado para novos desafios e em busca do primeiro emprego como desenvolvedor.
 
 ![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true&prefers=dark)
 
