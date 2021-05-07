@@ -1,28 +1,45 @@
-# Hey, I'm Emanuel... 
+## Hey, I'm Lucas Emanuel :sweat_smile:	
+Sou desenvolvedor Full Stack focado em soluções para a web, iniciando minha trajetória na faculdade em 2016, tendo grande familiaridade com PHP utilizando Laravel e Yii2 Framework, Git, SQL (MySQL), Modelagem de banco de dados e Vue.
 
-Sou desenvolvedor backend, experiente em PHP utilizando Laravel e Yii2 Framework, Git e SQL (PostgreSQL e Mysql). 99% Graduado em Tecnologia em Sistemas para Internet, com leitura razoável em inglês. Em constante busca por conhecimento, recentemente estudando e aplicando os estudos em projetos utilizando tecnologias frontend, como, Vue e React, e metodologias como Test Driven Development (TDD), Kanban e Git Flow. Sempre preparado para novos desafios e em busca do primeiro emprego como desenvolvedor.
+Estou constante em busca de conhecimento e sempre preparado para novos desafios.
 
-![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&count_private=true&prefers=dark)
+<div style="text-align:center">
 
-### :point_down: Estou por aqui:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) 
-[<img src="https://img.shields.io/badge/stackoverflow-orange.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/140857/lucas-emanuel)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucaseman/) [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/_lucaseman/) [<img src="https://img.shields.io/badge/stackoverflow-orange.svg?&style=flat&logo=stackoverflow&logoColor=white" />](https://pt.stackoverflow.com/users/140857/lucas-emanuel) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white" />](https://lucaseman.medium.com/)
 
-<!--
-**lucasemanuel/lucasemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucaseman)
+### Tecnologias :computer:
 
-Here are some ideas to get you started:
+Faço uso das destas tecnologias para em meus projetos, _algumas são mais utilizadas do que outras_.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+#### Tecnologias protagonistas
+
+<p>
+<img height="40" style="margin-right: 8px" src=".github/images/html.svg" alt="html">
+<img height="40" style="margin-right: 8px" src=".github/images/css.svg" alt="css">
+<img height="40" style="margin-right: 8px" src=".github/images/php.svg" alt="php">
+<img height="40" style="margin-right: 8px" src=".github/images/Laravel.svg" alt="Laravel">
+<img height="40" style="margin-right: 8px" src=".github/images/yii.svg" alt="yii">
+<img height="40" style="margin-right: 8px" src=".github/images/vue.svg" alt="vue">
+<img height="40" style="margin-right: 8px" src=".github/images/javascript.svg" alt="javascript">
+<img height="40" style="margin-right: 8px" src=".github/images/mysql_2.svg" alt="mysql">
+<img height="40" style="margin-right: 8px" src=".github/images/linux.svg" alt="linux">
+<img height="40" style="margin-right: 8px" src=".github/images/git.svg" alt="git">
+</p>
+
+#### Tecnologias coadjuvantes
+
+<p>
+<img height="40" style="margin-right: 8px" src=".github/images/bootstrap.svg" alt="bootstrap">
+<img height="40" style="margin-right: 8px" src=".github/images/tailwind.svg" alt="tailwind">
+<img height="40" style="margin-right: 8px" src=".github/images/sass.svg" alt="sass">
+<img height="40" style="margin-right: 8px" src=".github/images/node.svg" alt="node">
+<img height="40" style="margin-right: 8px" src=".github/images/postgresql.svg" alt="postgresql">
+<img height="40" style="margin-right: 8px" src=".github/images/docker.svg" alt="docker">
+</p>
+
+### Formação :mortar_board:
+- Tecnologia em Sistemas para Internet - IFRN/CN.
+### Overview :eyeglasses:	
+![Lucas Emanuel github stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel&theme=dark&count_private=true&prefers=dark)
