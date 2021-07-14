@@ -1,7 +1,8 @@
 ## Hey, I'm Lucas Emanuel :sweat_smile:	
-Sou desenvolvedor Full Stack focado em soluções para a web, iniciando minha trajetória na faculdade em 2016, tendo grande familiaridade com PHP utilizando Laravel e Yii2 Framework, Git, SQL (MySQL), Modelagem de banco de dados e Vue.
+Sou desenvolvedor Back-end, focado em soluções para a web, principalmente no desenvolvimento de APIs, tenho grande familiaridade com PHP utilizando Laravel e Javascript. Sou formada em Sistemas para Internet no IFRN e atualmente estou focando meus estudos em arquitetura e design de aplicações, como Domain Driven Design e Clean Architecture.
 
-Estou constante em busca de conhecimento e sempre preparado para novos desafios.
+Trabalho também com TDD, Git, MySQL, MongoDB e Vue, mesmo sem possuir “experiência de trabalho” já tive experiência de programar em grupo seguindo a metodologia Git Flow junto ao Kanban. Tenho capacidade de ler textos em inglês e estou em constante busca por conhecimento, sempre estudando, aplicando e aperfeiçoando minhas noções, me preparando para novos desafios e em busca do primeiro emprego.
+
 
 <div style="text-align:center">
 
@@ -26,6 +27,7 @@ Faço uso das destas tecnologias para em meus projetos, _algumas são mais utili
 <img height="40" style="margin-right: 8px" src=".github/images/mysql_2.svg" alt="mysql">
 <img height="40" style="margin-right: 8px" src=".github/images/linux.svg" alt="linux">
 <img height="40" style="margin-right: 8px" src=".github/images/git.svg" alt="git">
+<img height="40" style="margin-right: 8px" src=".github/images/node.svg" alt="node">
 </p>
 
 #### Tecnologias coadjuvantes
@@ -34,7 +36,6 @@ Faço uso das destas tecnologias para em meus projetos, _algumas são mais utili
 <img height="40" style="margin-right: 8px" src=".github/images/bootstrap.svg" alt="bootstrap">
 <img height="40" style="margin-right: 8px" src=".github/images/tailwind.svg" alt="tailwind">
 <img height="40" style="margin-right: 8px" src=".github/images/sass.svg" alt="sass">
-<img height="40" style="margin-right: 8px" src=".github/images/node.svg" alt="node">
 <img height="40" style="margin-right: 8px" src=".github/images/postgresql.svg" alt="postgresql">
 <img height="40" style="margin-right: 8px" src=".github/images/docker.svg" alt="docker">
 </p>
